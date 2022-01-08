@@ -1,0 +1,2 @@
+Código para encontrar um ciclo de Hamilton em um dado grafo e a partir daí verificar se o grafo é hamiltoniano.
+Um ciclo hamiltoniano é um ciclo gerador. Em outras palavras, um ciclo hamiltoniano em G é um ciclo que passa (uma e uma só vez) por cada vértice de G.  Um grafo é hamiltoniano se admite um ciclo hamiltoniano.
